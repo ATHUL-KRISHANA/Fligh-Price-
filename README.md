@@ -1,5 +1,5 @@
 # Fligh Fare Prediction
-Predicting flight fares is a crucial task in the airline industry and for travelers looking to plan their trips efficiently. The primary objective of this project is to develop a machine learning model that accurately predicts flight fares based on various influencing factors. By analyzing historical flight data, the project seeks to identify the key determinants of fare prices and use this information to forecast future fares.
+Predicting flight fares is a crucial task in the airline industry and for travelers looking to plan their trips efficiently. The primary objective of this project is to develop a machine learning model that accurately predicts flight fares based on various influencing factors.
 ## Dataset Overview
 The dataset used for this project is sourced from Kaggle [https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh/data].The dataset is divided into training and test files. The training dataset contains 10,000 rows and 11 columns
 * Features of the Flight Fare Prediction Dataset
